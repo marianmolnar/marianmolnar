@@ -118,7 +118,8 @@ class Svg:
 
 
 def face(name, chars):
-    f = TTFont(ASSETS / "fonts" / f"{FONTS[name]}.ttf")
+    # keep head.modified as is, so unchanged cards rebuild byte for byte and the workflow only commits real changes
+    f = TTFont(ASSETS / "fonts" / f"{FONTS[name]}.ttf", recalcTimestamp=False)
     options = subset.Options()
     options.flavor = "woff2"
     options.layout_features = ["*"]

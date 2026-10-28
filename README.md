@@ -4,7 +4,7 @@
 
 <p>I build custom web and mobile apps, from the interface down to the API, database and deployment. Most of my client work lives in private repos, so below are a few projects that are already live.</p>
 
-<p><a href="https://marianmolnar.cz">marianmolnar.cz</a> &nbsp;·&nbsp; <a href="https://www.linkedin.com/in/marian-molnar-337b36193/">LinkedIn</a> &nbsp;·&nbsp; <a href="https://www.instagram.com/marian_m0lnar">Instagram</a></p>
+<p><a href="https://marianmolnar.cz">marianmolnar.cz</a> &nbsp;·&nbsp; <a href="https://www.linkedin.com/in/marianmolnar/">LinkedIn</a> &nbsp;·&nbsp; <a href="https://www.instagram.com/marian_m0lnar">Instagram</a></p>
 
 <br>
 
