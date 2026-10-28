@@ -15,7 +15,7 @@
   <a href="https://marianmolnar.github.io/DeadZoneProtocol/"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/work-deadzone-dark.svg"><img src="assets/work-deadzone-light.svg" alt="DeadZone Protocol: A zombie wave shooter that runs in the browser: weapons, enemy waves and a low-poly night city, no game engine." width="49%"></picture></a>
 </p>
 <p>
-  <a href="https://barberobarbershop.cz/"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/work-barbero-dark.svg"><img src="assets/work-barbero-light.svg" alt="Barbero: Website for a Brno barbershop wired into its booking system and Google reviews. Ratings and opening hours load live." width="49%"></picture></a>
+  <a href="https://barberobarbershop.cz/"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/work-barbero-dark.svg"><img src="assets/work-barbero-light.svg" alt="Barbero: Website for a Brno barbershop with online booking, its Google rating and reviews, and a live open-or-closed indicator." width="49%"></picture></a>
   <a href="https://www.adamhyncica.cz"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/work-hyncica-dark.svg"><img src="assets/work-hyncica-light.svg" alt="Adam Hynčica: Website for a real-estate agent who publishes his own listings, closed deals and client reviews." width="49%"></picture></a>
 </p>
 

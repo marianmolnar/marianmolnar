@@ -36,7 +36,7 @@
       "name": "DeadZone Protocol",
       "kind": "Game",
       "description": "A zombie wave shooter that runs in the browser: weapons, enemy waves and a low-poly night city, no game engine.",
-      "tech": ["Three.js", "JavaScript", "Vite"],
+      "tech": ["A-Frame", "Three.js", "JavaScript"],
       "url": "https://marianmolnar.github.io/DeadZoneProtocol/",
       "label": "play in browser"
     },
@@ -44,7 +44,7 @@
       "slug": "barbero",
       "name": "Barbero",
       "kind": "Client",
-      "description": "Website for a Brno barbershop wired into its booking system and Google reviews. Ratings and opening hours load live.",
+      "description": "Website for a Brno barbershop with online booking, its Google rating and reviews, and a live open-or-closed indicator.",
       "tech": ["Astro", "TypeScript"],
       "url": "https://barberobarbershop.cz/",
       "label": "barberobarbershop.cz"
